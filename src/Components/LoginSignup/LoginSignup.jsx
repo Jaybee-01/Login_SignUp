@@ -37,7 +37,7 @@ export default function LoginSignup() {
       ) : (
         <div className="forgot-password">
           Lost Password <span>Click Here!</span>
-        </div>cd
+        </div>
       )}
 
       <div className="submit-container">
